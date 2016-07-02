@@ -1,8 +1,11 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Gamma Music Notation Training
+tagline:      Use o seu controlador MIDI para aprender notação musical!
 baseurl:      ""
 paginate:     1
+app:
+    baseurl: htttp://site.com/dist/
+    lasted: 0.0.1-alpha.zip
 
 # About/contact
 author:
