@@ -1,0 +1,47 @@
+Roteiro do vídeo de apresentação.
+
+
+Apresentação
+============
+
+Pessoal, hoje eu vou apresentar um programa chamado Gamma que auxilia iniciantes em teclado ou piano nos estudos de teoria musical.
+Um dos diferenciais desse programa é que ele permite que você utilize o seu teclado musical para aprender notação musical. 
+Além disso, possibilita que o estudo seja feita de uma forma divertida pois ele se parece com um jogo: 
+ - é apresentado um nota musical ao aluno e em um determinado tempo o aluno tem que responder no seu teclado musical qual é a nota. 
+ Se ele acertar ele ganha um pontuação. 
+ Se ele errar a pontuação é decrementada.
+ 
+ > Diagrama
+
+
+Conexão MIDI
+============
+
+
+Download
+========
+Vamos fazer o download do gamma.
+Eu coloquei na descrição desse vídeo o link do site do gamma.
+Então basta você clicar nesse link ou então, se você preferir, entrar no site http://gammamusic.github.io
+Quando a página do site carregar, você vai clicar no botão Download que está no topo da página.
+Então vai baixar um arquivo compactado no formato ZIP.
+
+
+Instalação
+==========
+Antes de fazer a instalação é importante reparar que esse program funciona somente no sistema operacional Windows.
+Agora vamos fazer a instalação do gamma.
+Você vai precisar de um programa que consiga descompactar um arquivo ZIP.
+Por exemplo, você pode usar o WinZip ou WinRar.
+No meu caso eu vou utilizar WinRar.
+Então vou aqui dar dois cliques no arquivo que baixou e descompacta-lo na área de trabalho.
+
+
+Execução
+========
+Agora vamos executar o programa.
+
+
+
+Contato
+=======
